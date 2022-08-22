@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/stb_image
+stb_image.so
+stb_image.dylib
+stb_image.dll
+stb_image.a
+stb_image.lib
+stb_image-test-*
+*.exe
+*.o
+*.obj
+*.lst

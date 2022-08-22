@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"jordan4ibanez"
+	],
+	"copyright": "Copyright © 2022, jordan4ibanez",
+	"description": "stb image loading/decoding from file/memory: JPG, PNG, TGA, BMP, PSD, GIF, HDR, PIC",
+	"license": "MIT",
+	"name": "stb_image"
+}
